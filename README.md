@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Renan Lopes</h1>
+<h1 align="center">Hi 🖖🏻, I'm Renan Lopes</h1>
 <h3 align="center">A passionate JavaScript and Blockchain developer</h3>
 
-- 🔭 Blockchain Ethereum ERC20 Token [Ethereum Swap Smart Contract](http://blockchain-eth-swap-git-main.renanlopescoder.vercel.app)
+- 📜 Blockchain Ethereum ERC20 Token [Ethereum Swap Smart Contract](http://blockchain-eth-swap-git-main.renanlopescoder.vercel.app)
 
-- 🔭 NodeJS Express Project [Node API Rest](https://github.com/renanlopescoder/rest-api-node)
+- ⚙️ NodeJS Express Project [Node API Rest](https://github.com/renanlopescoder/rest-api-node)
 
-- 🔭 React MobX [React Mobx](https://mobx-react.herokuapp.com/)
+- 🖥 React MobX [React Mobx](https://mobx-react.herokuapp.com/)
 
-- 👨‍💻 Blockchain portfolio [https://renanlopes.network](https://renanlopes.network)
+- 🧙🏻‍♂️ Blockchain portfolio [https://renanlopes.network](https://renanlopes.network)
 
-- 💬 Ask me about **React, NodeJS, Firebase, Ethereum smart contracts, and Solidity**
+- 📚 Ask me about **React, NodeJS, Firebase, Ethereum smart contracts, and Solidity**
 
 - 📫 How to reach me **renanlopescoder@gmail.com**
 
-- 📄 Portfolio [https://renanlopes.com](https://renanlopes.com)
+- 👨🏻‍💻 Portfolio [https://renanlopes.com](https://renanlopes.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
