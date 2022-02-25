@@ -9,13 +9,11 @@
 
 - 🖥 React MobX [React Mobx](https://mobx-react.herokuapp.com/)
 
-- 🧙🏻‍♂️ Blockchain portfolio [https://renanlopes.network](https://renanlopes.network)
-
 - 📚 Ask me about **React, NodeJS, Firebase, Ethereum smart contracts, and Solidity**
 
 - 📫 How to reach me **renanlopescoder@gmail.com**
 
-- 👨🏻‍💻 Portfolio [https://renanlopes.com](https://renanlopes.com)
+- 🧙🏻‍♂️ Portfolio [https://renanlopes.network](https://renanlopes.network)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
