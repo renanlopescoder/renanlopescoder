@@ -1,7 +1,5 @@
 <h1 align="center">Hi 🖖🏻, I'm Renan Lopes </h1>
-<h3 align="center">A passionate JavaScript and Blockchain developer</h3>
-
-<p align="center" ><img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="300px"></p>
+<h3 align="center">A passionate Blockchain and Game developer</h3>
 
 - 📜 Blockchain Ethereum ERC20 Token [Ethereum Swap Smart Contract](http://blockchain-eth-swap-git-main.renanlopescoder.vercel.app)
 
@@ -9,7 +7,7 @@
 
 - 🖥 React MobX [React Mobx](https://mobx-react.herokuapp.com/)
 
-- 📚 Ask me about **React, NodeJS, Firebase, Ethereum smart contracts, and Solidity**
+- 📚 Ask me about **C++, Unreal Engine, React, NodeJS, Firebase, Ethereum smart contracts, and Solidity**
 
 - 📫 How to reach me **renanlopescoder@gmail.com**
 
