@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Renan Lopes - Senior Software Engineer</h1>
+<h1 align="center">Hi, I'm Renan Lopes - Senior Software Engineer 🚀</h1>
 <h3 align="center">Expert in Full Stack Development, Blockchain, and Cloud Technologies</h3>
 
 Welcome to my GitHub profile! I specialize in developing high-quality, scalable software solutions using a wide range of technologies. Dive into my projects to see how I leverage my expertise in Node.js, React, Solidity, and more to build innovative applications.
